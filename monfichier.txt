@@ -1,2 +1,6 @@
 quelques lignes de texte
+<<<<<<< HEAD
 Modification dans master de monfichier.txt
+=======
+Modification de monfichier.txt sur ma-nouvelle-branche
+>>>>>>> ma-nouvelle-branche
